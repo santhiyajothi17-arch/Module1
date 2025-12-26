@@ -24,10 +24,11 @@ print("Real part =", z.real)
 print("Imaginary part =", z.imag)
 
 Enter real part: 5
-Enter imaginary part: 3
+
 
 
 ## Output
+Enter imaginary part: 3
 Complex number = (5+3j)
 Real part = 5.0
 Imaginary part = 3.0
