@@ -8,17 +8,12 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
-# Program to print the characters 'T' and 'a' using character literals
-
-ch1 = 'T'
-ch2 = 'a'
-
-print(ch1)
-print(ch2)
+print('T')
+print('a')
 
 ## Output
-T
-a
+<img width="869" height="140" alt="image" src="https://github.com/user-attachments/assets/cc6240f6-6ffc-4568-811f-cbd229387c50" />
+
 
 ## Result
 Thus, Datatypes-Character Literal in Python is explained successfully.
