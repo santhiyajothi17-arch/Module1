@@ -21,9 +21,9 @@ if num % 2 == 0:
 else:
     print(num, "is Odd")
 
-Enter a number: 12
 
 ## Output
+Enter a number: 12
 12 is Even
 
 ## Result
