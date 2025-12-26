@@ -12,7 +12,19 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+# Even or Odd Checker
+
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print(num, "is Even")
+else:
+    print(num, "is Odd")
+
+Enter a number: 12
 
 ## Output
+12 is Even
 
 ## Result
+Thus, Conditional Statements in Python: Even or Odd Checker is successfully explained.
