@@ -24,6 +24,7 @@ else:
 
 ## Output
 Enter a number: 12
+
 12 is Even
 
 ## Result
